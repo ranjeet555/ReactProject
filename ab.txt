@@ -2,6 +2,7 @@ this is another file
 
 this another chanching
 
+<<<<<<< HEAD
 
 okay then i will change again
 
@@ -10,4 +11,7 @@ bonepull
  changing 4
 
 
- there is another change
+ there is another 
+
+
+ 666666hkhjk
